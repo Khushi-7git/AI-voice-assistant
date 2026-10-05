@@ -245,8 +245,4 @@ This project is provided for learning and personal use. Add your preferred licen
 
 ---
 
-## Author
 
-Ayush Kumar
-
-GitHub: https://github.com/Ayushkr240
